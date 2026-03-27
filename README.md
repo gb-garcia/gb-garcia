@@ -1,16 +1,14 @@
-## Hi there 👋
+# Gabriela Garcia
 
-<!--
-**gb-garcia/gb-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheira Civil | Cientista de Dados 
 
-Here are some ideas to get you started:
+Atualmente:
+- Mestrado em Computação Aplicada
+- Foco em Machine Learning e análise de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetos:
+- Análise de dados de comportamento alimentar de bovinos
+- Recomendação de cultivo ideal conforme parâmetros do solo
+
+Contato:
+LinkedIn: https://www.linkedin.com/in/enggabrielagarcia/
