@@ -3,6 +3,7 @@
 Engenheira Civil | Cientista de Dados 
 
 🚧 Perfil em construção 🚧
+
 Ainda estou organizando meus projetos aqui.
 
 Atualmente:
